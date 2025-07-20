@@ -1,0 +1,9 @@
+Date,County,State,Vehicle Primary Use,BEV,PHEV,EV Total,Non-Electric Vehicle Total,Total Vehicles,Percent Electric Vehicles
+2017-01-31,King,WA,Passenger,100,50,150,10000,10150,1.48
+2018-01-31,King,WA,Passenger,200,80,280,9800,10080,2.78
+2019-01-31,King,WA,Passenger,350,120,470,9600,10070,4.67
+2020-01-31,King,WA,Passenger,500,200,700,9400,10100,6.93
+2021-01-31,King,WA,Passenger,800,300,1100,9200,10300,10.68
+2022-01-31,King,WA,Passenger,1200,400,1600,9000,10600,15.09
+2023-01-31,King,WA,Passenger,1800,600,2400,8800,11200,21.43
+2024-01-31,King,WA,Passenger,2500,800,3300,8600,11900,27.73
