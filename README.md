@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week_1
 
 EV Vehicle/Charging Demand Prediction
@@ -14,13 +15,6 @@ This dataset shows the number of vehicles that were registered by Washington Sta
 Dataset Link: https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024/data
 
 ## Columns
-- Date: Counts of registered vehicles are taken on this day (the end of this month). - 2017-01-31 2024-02-29
-- County: Geographic region of a state that a vehicle's owner is listed to reside within.
-- State: Geographic region of the country associated with the record.
-- Vehicle Primary Use: Primary intended use of the vehicle (Passenger-83%, Truck-17%)
-- Battery Electric Vehicles (BEVs): Count of vehicles propelled solely by an onboard electric battery.
-- Plug-In Hybrid Electric Vehicles (PHEVs): Count of vehicles propelled partially by an onboard electric battery.
-- Electric Vehicle (EV) Total: Sum of BEVs and PHEVs.
-- Non-Electric Vehicle Total: Count of vehicles that are not electric vehicles.
-- Total Vehicles: All powered vehicles registered in the county.
-- Percent Electric Vehicles: Comparison of electric vehicles versus their non-electric counterparts.
+=======
+# ev_adoption_project
+>>>>>>> 1ac88f0cd213a4b33f0c444bf54ac0975b9dc579
