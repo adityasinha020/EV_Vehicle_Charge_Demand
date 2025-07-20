@@ -1,20 +1,96 @@
-<<<<<<< HEAD
-# Week_1
+# EV Vehicle Charge Demand
 
-EV Vehicle/Charging Demand Prediction
+## Overview
+This project forecasts electric vehicle (EV) adoption and charging demand using historical registration data and machine learning techniques.
 
 ## Problem Statement
-Using the electric vehicle dataset (which includes information on EV populations, vehicle types, and possibly historical charging usage), create a model to forecast future EV adoption. For example, predict the number of electric vehicles in upcoming years based on the trends in the data.
-
-## Goal
-Build a regression model that forecasts future EV adoption demand based on historical trends in EV growth, types of vehicles, and regional data.
+Build a regression model to predict future EV adoption and charging demand based on historical data, vehicle types, and county-level information.
 
 ## Dataset
-This dataset shows the number of vehicles that were registered by Washington State Department of Licensing (DOL) each month. The data is separated by county for passenger vehicles and trucks.
+Source: [Kaggle - Electric Vehicle Population Size 2024](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024/data)
 
-Dataset Link: https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024/data
+The dataset contains monthly EV registrations by county, including passenger vehicles and trucks.
 
 ## Columns
-=======
-# ev_adoption_project
->>>>>>> 1ac88f0cd213a4b33f0c444bf54ac0975b9dc579
+- Date
+- County
+- State
+- Electric Vehicle (EV) Total
+- Percent Electric Vehicles
+- Vehicle Type
+- Fuel Type
+- Make
+- Model
+- Model Year
+
+## Getting Started
+1. Clone this repository.
+2. Download the dataset from Kaggle and place it in the project folder as `EV_dataset.csv`.
+3. Open `EV_Adoption.ipynb` in Jupyter or VS Code and run the cells to train and evaluate the model.
+
+## License
+For educational use only.
+# EV Adoption Project
+
+## Overview
+Forecast electric vehicle (EV) adoption using historical registration data and machine learning.
+
+## Problem Statement
+Build a regression model to predict future EV adoption and charging demand using historical data, vehicle types, and county-level information.
+
+## Dataset
+Source: [Kaggle - Electric Vehicle Population Size 2024](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024/data)
+
+Monthly EV registrations by county, including passenger vehicles and trucks.
+
+## Columns
+- Date
+- County
+- State
+- Electric Vehicle (EV) Total
+- Percent Electric Vehicles
+- Vehicle Type
+- Fuel Type
+- Make
+- Model
+- Model Year
+
+## Getting Started
+1. Clone this repository.
+2. Download the dataset from Kaggle and place it in the project folder as `EV_dataset.csv`.
+3. Open `EV_Adoption.ipynb` in Jupyter or VS Code and run the cells to train and evaluate the model.
+
+## License
+For educational use only.
+# EV Adoption Project
+
+## Overview
+This project forecasts electric vehicle (EV) adoption using historical registration data from Washington State. It leverages machine learning to predict future EV demand based on trends in vehicle growth, types, and regional data.
+
+## Problem Statement
+Develop a regression model to forecast future EV adoption and charging demand using historical EV population data, vehicle types, and county-level information.
+
+## Dataset
+Source: [Kaggle - Electric Vehicle Population Size 2024](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024/data)
+
+The dataset contains monthly EV registrations by county, including passenger vehicles and trucks.
+
+## Columns
+- Date
+- County
+- State
+- Electric Vehicle (EV) Total
+- Percent Electric Vehicles
+- Vehicle Type
+- Fuel Type
+- Make
+- Model
+- Model Year
+
+## Getting Started
+1. Clone this repository.
+2. Download the dataset from Kaggle and place it in the project folder as `EV_dataset.csv`.
+3. Open `EV_Adoption.ipynb` in Jupyter or VS Code and run the cells to train and evaluate the model.
+
+## License
+This project is for educational purposes.
